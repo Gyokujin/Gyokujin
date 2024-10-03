@@ -2,6 +2,7 @@
 <h3 align="left">재미있는 도전을 좋아하는 게임 개발자</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyokujin&label=Profile%20views&color=0e75b6&style=flat" alt="gyokujin" /> </p>
+
 - 📧 Email **dd43454548@naver.com**
 
 - ✍️ Blog **https://blog.naver.com/dd43454548**
