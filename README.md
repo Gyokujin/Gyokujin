@@ -8,7 +8,8 @@
 - ✍️ Blog **https://blog.naver.com/dd43454548**
   
 - 🎮 itch.io **https://gyokujin.itch.io/**
-  
+
+- # repository
 - 💻 현재 진행중인 프로젝트 [Absorb Darkness](https://github.com/Gyokujin/Absorb-Darkness)
 - 📖 현재 학습하고 있는 것 [Programming Pattern](https://github.com/Gyokujin/Game-Programming-Pattern)
 - 📝 현재 풀고있는 코딩테스트 문제 [CodingTest_4](https://github.com/Gyokujin/CodingTest_4)
