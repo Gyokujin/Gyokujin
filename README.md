@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyokujin&label=Profile%20views&color=0e75b6&style=flat" alt="gyokujin" /> </p>
 
+- # INFO
 - 📧 Email **dd43454548@naver.com**
 
 - ✍️ Blog **https://blog.naver.com/dd43454548**
