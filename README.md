@@ -13,7 +13,7 @@
 
 - Blog **https://blog.naver.com/dd43454548**
 
-- Youtubeitch.io **https://gyokujin.itch.io/**
+- itch.io **https://gyokujin.itch.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
