@@ -1,8 +1,6 @@
 <h1 align="left">안녕하세요 김격진입니다</h1>
 <h3 align="left">재미있는 도전을 좋아하는 게임 개발자</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyokujin&label=Profile%20views&color=0e75b6&style=flat" alt="gyokujin" /> </p>
-
 - # INFO
 - 📧 Email **dd43454548@naver.com**
 
