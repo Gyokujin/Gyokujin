@@ -2,18 +2,13 @@
 <h3 align="left">재미있는 도전을 좋아하는 게임 개발자</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyokujin&label=Profile%20views&color=0e75b6&style=flat" alt="gyokujin" /> </p>
-
-- 💻 현재 진행중인 프로젝트 [Absorb Darkness](https://github.com/Gyokujin/Absorb-Darkness)
-
 - 📧 Email **dd43454548@naver.com**
-
-- 📖 현재 학습하고 있는 것 [Programming Pattern](https://github.com/Gyokujin/Game-Programming-Pattern)
-
-- 📝 현재 풀고있는 코딩테스트 문제 [CodingTest_4](https://github.com/Gyokujin/CodingTest_4)
-
 - ✍️ Blog **https://blog.naver.com/dd43454548**
-
 - 🎮 itch.io **https://gyokujin.itch.io/**
+  
+- 💻 현재 진행중인 프로젝트 [Absorb Darkness](https://github.com/Gyokujin/Absorb-Darkness)
+- 📖 현재 학습하고 있는 것 [Programming Pattern](https://github.com/Gyokujin/Game-Programming-Pattern)
+- 📝 현재 풀고있는 코딩테스트 문제 [CodingTest_4](https://github.com/Gyokujin/CodingTest_4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
