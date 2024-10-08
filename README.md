@@ -24,7 +24,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dd43454548)](https://solved.ac/dd43454548/)
 
-![Programmers Badge](https://raw.githubusercontent.com/Gyokujin/Programmers_Badge_Generator/main/result/result.svg)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyokujin&show_icons=true&locale=en&layout=compact" alt="gyokujin" /></p>
 
